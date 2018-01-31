@@ -1,0 +1,17 @@
+{
+    "name": "GeoPlugin",
+    "version": "0.0.1",
+    "private": true,
+    "description": "Viper geolocation plugin",
+    "author": "",
+    "directories": {
+    },
+    "repository": "",
+    "scripts": {
+
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+  }
